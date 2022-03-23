@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center"> My Streak </h2>
+<p align = "center">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sakthivel-Ramasamy&line_height=30&">
+</p>
