@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Visitors](https://komarev.com/ghpvc/?username=Sakthivel-Ramasamy&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sakthivel-Ramasamy)
+
 <h2 align="center"> My Streak </h2>
 <p align = "center">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sakthivel-Ramasamy&line_height=30&">
